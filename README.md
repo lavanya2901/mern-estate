@@ -1,4 +1,8 @@
-"HomyHub: Full Stack Home Management Platform with MERN Stack"
+INTRODUCTION
+
+Project Title:
+HomyHub: Full Stack Home Management Platform with MERN Stack
+
 
 
 
