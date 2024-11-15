@@ -1,0 +1,43 @@
+.login-container {
+  display: flex;
+  flex-direction: row;
+  height: 88vh;
+}
+
+.login-left {
+  flex: 1;
+  background-color: #f0f4ff;
+  background-image: url("https://wallpapercave.com/wp/wp9764022.jpg");
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  color: #333;
+}
+
+.login-left h1 {
+  font-size: 2.5rem;
+  margin-bottom: 10px;
+}
+
+.login-left p {
+  font-size: 1.2rem;
+}
+
+.login-right {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.login-links {
+  text-align: center;
+  margin-top: 10px;
+}
+
+.login-links a {
+  text-decoration: none;
+  font-size: 0.9rem;
+}
