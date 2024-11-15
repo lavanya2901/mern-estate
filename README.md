@@ -1,8 +1,5 @@
-Here's a neatly aligned version of the **README** for your GitHub repository:
-
-```markdown
-# HomyHub
-
+"HomyHub: Full Stack Home Management Platform with MERN Stack"
+INTRODUCTION:
 ## Team Members:
 - Lavanya S
 - Kavishree K
